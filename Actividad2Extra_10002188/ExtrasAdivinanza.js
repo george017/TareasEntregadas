@@ -1,3 +1,5 @@
+
+//cambio dos
 function jugarAdivinanza() {
     const numeroAleatorio = Math.floor(Math.random() * 9) + 1;  // Generar un número aleatorio entre 1 y 9
     let intentos = 0;
